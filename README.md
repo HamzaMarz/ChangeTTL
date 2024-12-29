@@ -1,4 +1,4 @@
-#TTL Modifier Using PyDivert
+**TTL Modifier Using PyDivert**
 This repository contains a Python script to intercept and modify the TTL (Time to Live) value of network packets. The script utilizes the pydivert library and is specifically designed to run on Windows with WinDivert installed.
 
 Features
